@@ -1,0 +1,12 @@
+D:\New_Project\App\DALC\bin\Debug\netcoreapp3.1\DALC.deps.json
+D:\New_Project\App\DALC\bin\Debug\netcoreapp3.1\DALC.dll
+D:\New_Project\App\DALC\bin\Debug\netcoreapp3.1\DALC.pdb
+D:\New_Project\App\DALC\bin\Debug\netcoreapp3.1\CoreTools.dll
+D:\New_Project\App\DALC\obj\Debug\netcoreapp3.1\DALC.csproj.AssemblyReference.cache
+D:\New_Project\App\DALC\obj\Debug\netcoreapp3.1\DALC.GeneratedMSBuildEditorConfig.editorconfig
+D:\New_Project\App\DALC\obj\Debug\netcoreapp3.1\DALC.AssemblyInfoInputs.cache
+D:\New_Project\App\DALC\obj\Debug\netcoreapp3.1\DALC.AssemblyInfo.cs
+D:\New_Project\App\DALC\obj\Debug\netcoreapp3.1\DALC.csproj.CoreCompileInputs.cache
+D:\New_Project\App\DALC\obj\Debug\netcoreapp3.1\DALC.csproj.CopyComplete
+D:\New_Project\App\DALC\obj\Debug\netcoreapp3.1\DALC.dll
+D:\New_Project\App\DALC\obj\Debug\netcoreapp3.1\DALC.pdb

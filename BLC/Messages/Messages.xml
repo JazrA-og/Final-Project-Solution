@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<MESSAGES>
+  <ENGLISH>
+    <MESSAGE CODE="BR_9999" CONTENT="Invalid Credentials" />
+    <MESSAGE CODE="BR_0000" CONTENT="%1 must be unique" />
+    <MESSAGE CODE="BR_0001" CONTENT="Password should be at least 4 characters" />
+    <MESSAGE CODE="BR_0002" CONTENT="Wrong Username and/or Password!" />
+    <MESSAGE CODE="BR_0003" CONTENT="Username already taken !" />
+    <MESSAGE CODE="BR_0004" CONTENT="User not found !" />
+    <MESSAGE CODE="BR_0005" CONTENT="Email already taken !" />
+    <MESSAGE CODE="BR_0006" CONTENT="User is not active !" />
+  </ENGLISH>
+</MESSAGES>
+

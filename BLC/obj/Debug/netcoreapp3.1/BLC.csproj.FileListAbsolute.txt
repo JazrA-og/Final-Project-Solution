@@ -1,0 +1,16 @@
+D:\New_Project\App\BLC\bin\Debug\netcoreapp3.1\BLC.deps.json
+D:\New_Project\App\BLC\bin\Debug\netcoreapp3.1\BLC.dll
+D:\New_Project\App\BLC\bin\Debug\netcoreapp3.1\BLC.pdb
+D:\New_Project\App\BLC\obj\Debug\netcoreapp3.1\BLC.GeneratedMSBuildEditorConfig.editorconfig
+D:\New_Project\App\BLC\obj\Debug\netcoreapp3.1\BLC.AssemblyInfoInputs.cache
+D:\New_Project\App\BLC\obj\Debug\netcoreapp3.1\BLC.AssemblyInfo.cs
+D:\New_Project\App\BLC\obj\Debug\netcoreapp3.1\BLC.csproj.CoreCompileInputs.cache
+D:\New_Project\App\BLC\obj\Debug\netcoreapp3.1\BLC.dll
+D:\New_Project\App\BLC\obj\Debug\netcoreapp3.1\BLC.pdb
+D:\New_Project\App\BLC\bin\Debug\netcoreapp3.1\CoreCrypto.dll
+D:\New_Project\App\BLC\bin\Debug\netcoreapp3.1\CoreHasher.dll
+D:\New_Project\App\BLC\bin\Debug\netcoreapp3.1\CoreTools.dll
+D:\New_Project\App\BLC\bin\Debug\netcoreapp3.1\DALC.dll
+D:\New_Project\App\BLC\bin\Debug\netcoreapp3.1\DALC.pdb
+D:\New_Project\App\BLC\obj\Debug\netcoreapp3.1\BLC.csproj.AssemblyReference.cache
+D:\New_Project\App\BLC\obj\Debug\netcoreapp3.1\BLC.csproj.CopyComplete
